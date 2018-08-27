@@ -4,4 +4,4 @@
 
 > * Learning on the move based on user decisions
 
-> * Click fine if you think the network choose the right font color
+> * Click "fine" if you think the network chose the right font color

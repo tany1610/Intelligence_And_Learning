@@ -26,7 +26,7 @@ function setup() {
 function draw() {
   background(0)
   for (let i = 0; i < slider.value(); i++) {   
-    if (obstacle.y > height + 100) {
+    if (obstacle.y > height) {
       obstacle = new Obstacle(difficulty)
     }
     obstacle.update()
